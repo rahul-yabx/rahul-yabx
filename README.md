@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
   
 
-- 🔭 I’m currently working on [BBGO](https://github.com/c9s/bbgo), A crypto trading bot framework  
-- 🌱 I’m currently learning Rust and Solidity
-- 🗣 I speak English, Mandarin Chinese.  I'm currently learning Korean 🇰🇷  , Japanese 🇯🇵 .
+- 🔭 I’m currently working on [YABX](https://yabx.co/).  
+- 🌱 I’m currently learning ...
+- 🗣 I speak English, Hindi.
  
 <br/>  
 
