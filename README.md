@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <a href="https://dev.to/rahul-yabx" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/lin-yo-an-51318026" target="_blank">
+<a href="https://linkedin.com/in/i-rahul" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/yoan.lin" target="_blank">
